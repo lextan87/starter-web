@@ -10,6 +10,7 @@
 
     <name>
 	All test stud
+	Pelase leave a review 
 
 # TECHNOLOGY COLOPHON
 
