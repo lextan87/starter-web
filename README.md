@@ -24,7 +24,7 @@ abc123456
 
 abc123456
 
-copyright notice
+copyright notice All rights reserve
 
 changes
 
