@@ -28,4 +28,4 @@ copyright notice
 
 changes
 
-more change made for rebasing example
+more change made for rebasing example, [more changes for myfeature]
